@@ -1,11 +1,26 @@
 *{
     border: 1px solid red;
+    color: white;
+    background-color: black;
 }
 
 a{
     text-decoration: none;
+    color: white;
+    margin: 20px;
+    line-height: 30px;
 }
 
 a:active{
+    color: brown;
+}
+a:hover{
+    color: blue;
+}
+ul{
+    margin: auto;
+}
+.nav li{
+    list-style: none;
 
 }
